@@ -501,7 +501,7 @@ header.header-active .navbar a{
     header .navbar{
         /* position: hide; */
         margin-top: 25px;
-        top:-100rem; left: 0;
+        top:100rem; left: 0;
         width: 100%;
     
         opacity: 0;
@@ -513,7 +513,7 @@ header.header-active .navbar a{
         flex-flow: column;
         height: 100px;
         flex-wrap: wrap;
-        padding:5rem 0;
+        padding:2rem 0;
     }
 
     header .navbar ul li{
